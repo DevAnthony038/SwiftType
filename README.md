@@ -1,4 +1,4 @@
 # SwiftType
-SwiftType ist ein moderner Tipptrainer, der dir hilft, das 10-Finger-System zu meistern.
+SwiftType is a modern typing trainer that helps you master the ten-finger typing system.
 
 ![SwiftType Screenshot](img.png)
